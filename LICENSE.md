@@ -1,4 +1,4 @@
-
+BetterTouchTool for macOS updated Tool: OCR-support & file-encryption is the best BetterTouchTool for macOS tool, featuring OCR-support and file-encryption. Safe, efficient, and
 
 
 
